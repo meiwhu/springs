@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/rest_with_actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/managing_transactions/pom.xml" />
       </list>
     </option>
   </component>
