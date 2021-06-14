@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/rest_with_actuator/pom.xml" />
         <option value="$PROJECT_DIR$/managing_transactions/pom.xml" />
         <option value="$PROJECT_DIR$/async_method/pom.xml" />
+        <option value="$PROJECT_DIR$/caching_data_with_spring/pom.xml" />
       </list>
     </option>
   </component>
